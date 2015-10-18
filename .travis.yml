@@ -1,0 +1,10 @@
+install:
+  - gem install jekyll
+
+script:
+  - jekyll build
+  
+after_success:
+
+
+after_failure:
