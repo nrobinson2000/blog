@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: SparkBot
 permalink: /sparkbot/
 ---
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
