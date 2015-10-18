@@ -5,7 +5,7 @@ permalink: /sparkbot/
 ---
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
-# SparkBot: The IoT robotics kit for everyone
+# The IoT robotics kit for everyone
 
 SparkBot is a robotics kit designed for makers and hobbyists, recommended for individuals aged 12 and up. It uses the Photon by Particle to teach C++ and principles of the Internet of Things. Its goal is to teach functional robotics, Arduino, and REST API's in an understandable method.
 
