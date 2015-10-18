@@ -1,0 +1,13 @@
+# Site settings
+title: Nathan's Blog
+email: nathan.daniel.robinson@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal blog about my personal intrests and experiences.  This is also the
+  blog for my personal project.  This blog is powered by Jekyll and runs on Linux Mint 17.2.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: nrobinson2000
+github_username:  nrobinson2000
+
+# Build settings
+markdown: kramdown
