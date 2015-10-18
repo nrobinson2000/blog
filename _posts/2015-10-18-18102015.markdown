@@ -1,0 +1,29 @@
+---
+layout: post
+title: "18/10/2015"
+date: 2015-10-18 19:30:00
+categories: blog
+---
+
+This is my first **legitimate** Blog post.  I created this Blog today because I thought Jekyll sounded like a cool platform for making a Blog.  I installed Jekyll on my Linux Mint workstation today, wrote a post and then turned my Blog into a Git repository.  I uploaded my repo to GitHub and now it is hosted on Github Pages at [http://nrobinson2000.github.io](http://nrobinson2000.github.io)
+
+I am really liking Jekyll so far.  I have not had any problems with it yet, and it is running great.  I think it looks really professional and I love the elegant and simple theme that it starts with.  I might install a theme later, but right now I am happy with how it looks currently.
+
+I was able to import my Disqus comment section code into the site layout, and miraculously I was able to keep my SparkBot comments on my SparkBot section.
+
+I can customize my theme by editing the HTML files in the `_includes` directory.  I can change my layouts by editing the files in the `_layouts` directory.
+
+I can highlight code from many programming languages.
+{% highlight python %}
+def helloWorld():
+  print("Hello world!")
+
+helloWorld()
+
+{% endhighlight %}
+
+I can also **bold**, *italicise* and ***bold italicise*** text.  I love markdown and I think that Jekyll is great.
+
+My Blog is mobile compatible and it looks awesome on whatever device that is viewing it.  Jekyll also runs on the computer that is editing it, which means I can view my Blog on localhost and on other devices on my network.  I configured my apache installation to serve my built site, and it is great for getting a preview of my Blog before pushing a commit.  I have installed a Atom package that rebuilds my Blog whenever I press `CTRL` + `S`.  It also has shortcuts for making new posts and stoping and starting the Jekyll server.  [Here is the package on Atom.io](https://atom.io/packages/jekyll).
+
+I am proud of my new website / Blog.  I will keep this blog on GitHub and use it as my personal website.

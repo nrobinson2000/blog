@@ -43,6 +43,17 @@
             </a>
           </li>
           {% endif %}
+
+          {% if site.particle_username %}
+          <li>
+            <a href="https://community.particle.io/users/{{ site.particle_username }}/activity">
+              <span class="icon  icon--particle">
+                <img src="/particle.svg" height="16px" width="16px">
+                </span>
+              <span class="username">{{ site.particle_username }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
