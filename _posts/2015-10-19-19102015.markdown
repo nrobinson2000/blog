@@ -4,7 +4,7 @@ title: "19/10/2015"
 date: 2015-10-19 13:30:00
 ---
 ### Updates:
-* I added a sidebar menu on the front page of my Blog.  It has information about my Blog and links to its source code and the Jekyll website.  I created a new css class in the `css/main.scss` file for the sidebar.  Here's a snippet of its css.
+* I added a sidebar menu on the front page of my Blog.  It has information about my Blog and links to its source code and the Jekyll website.  I created a new css class in the `css/main.scss` file for the sidebar.  Here's a snippet of it's css.
 {% highlight scss %}
 .side-nav {
     line-height:25px;
