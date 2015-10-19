@@ -1,0 +1,11 @@
+---
+layout: post
+title: "19/10/2015"
+date: 2015-10-19 13:30:00
+---
+### New stuff:
+* I added a sidebar menu on the front page of my Blog.  It has information about my Blog and links to its source code and the Jekyll website.
+* I updated the Particle icon at the bottom of the page. It now looks like this.
+<center><img src="/particle.svg"></center>
+
+* I am going to 

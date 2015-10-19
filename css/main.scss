@@ -50,3 +50,12 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.side-nav {
+    line-height:25px;
+    // background-color:#eeeeee;
+    height:300px;
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    float:right;
+    padding:15px;
+}

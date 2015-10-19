@@ -10,6 +10,19 @@ twitter_username: nrobinson2000
 github_username:  nrobinson2000
 particle_username: nrobinson2000
 
+nav_message: >
+  <h3>About my Blog:</h3>
+  <ul>
+  <li>This blog is hosted on GitHub pages on my GitHub account.  You can see the <a href src="https://github.com/nrobinson2000/nrobinson2000.github.io">source code here.</a></li>
+  <br>
+  <li>This blog is powered by <a href src="https://jekyllrb.com">Jekyll</a>.  Jekyll is an automatic blog / website generator that compiles GitHub flavored markdown into HTML
+  files.</li>
+  <ul>
+
+
+
+
+
 # Build settings
 kramdown:
   input: GFM
