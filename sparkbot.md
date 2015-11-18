@@ -59,7 +59,7 @@ The SparkBot shield makes use of most of pins of the Photon, allowing it to work
 
 # Purpose:
 
-I created the idea for SparkBot back in 9th grade. I have been developing it since then, and have turned it into the base of my grade 10 pesonal project.
+I created the idea for SparkBot back in 9th grade. I have been developing it since then, and have turned it into the base of my grade 10 personal project.
 
 
 
