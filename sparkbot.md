@@ -59,7 +59,7 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 The SparkBot shield makes use of most of pins of the Photon, allowing it to work with all of the SparkBot components, as well as expose several pins for external GPIO.
 
 
-# **Why did are you making this?**
+# **Why are you making this?**
 
 I created the idea for SparkBot back in 9th grade. I have been developing it since then, and have turned it into the base of my grade 10 personal project.
 
