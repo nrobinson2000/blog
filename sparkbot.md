@@ -5,7 +5,7 @@ permalink: /sparkbot/
 ---
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
-# The IoT robotics kit for everyone
+# **The IoT robotics kit for everyone**
 
 SparkBot is a robotics kit designed for makers and hobbyists, recommended for individuals aged 12 and up. It uses the Photon by Particle to teach C++ and principles of the Internet of Things. Its goal is to teach functional robotics, Arduino, and REST API's in an understandable method.
 
@@ -14,14 +14,14 @@ The purpose of SparkBot is to create a robot front end for the Photon that will 
 SparkBot is a two part product. Although it uses both hardware and software from Particle, unique PCBs and 3D printed bodies must be produced. SparkBot also has its own software library with custom C++ functions to improve the SparkBot programming experience.
 
 
-# The Photon:
+# **The Photon:**
 
 The Photon is the SparkBot's brain. It runs C++ on its micro operating system, that communitcates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB serial.
 
 The Photon is Particle's second IoT development board. Their first was the Core, a huge Kickstarter success. The Photon was developed without any Kickstarter support, and the Electron, their third board, which uses celluar technology, was successfully funded on Kickstarter this year.
 
 
-# Licensing:
+# **Licensing:**
 
 SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found on GitHub.
 
@@ -30,7 +30,7 @@ SparkBot by [Nathan Robinson][9] is licensed under a [Creative Commons Attributi
 Based on a work at [https://github.com/nrobinson2000/sparkbot][2].
 
 
-# Repositories:
+# **Repositories:**
 
 SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
 
@@ -41,7 +41,7 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 It is likely that a third repository will be created for the SparkBot documentation.
 
 
-# Included in the SparkBot Kit:
+# **Included in the SparkBot Kit:**
 
 * 1 Particle Photon
 * 1 Micro usb cable
@@ -52,14 +52,14 @@ It is likely that a third repository will be created for the SparkBot documentat
 * 1 User manual and quickstart guide
 
 
-# Photon Pinout:
+# **Photon Pinout:**
 ![](https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png)
 
 
 The SparkBot shield makes use of most of pins of the Photon, allowing it to work with all of the SparkBot components, as well as expose several pins for external GPIO.
 
 
-# Purpose:
+# **Purpose:**
 
 I created the idea for SparkBot back in 9th grade. I have been developing it since then, and have turned it into the base of my grade 10 personal project.
 
