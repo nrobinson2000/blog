@@ -68,9 +68,9 @@ To help with the development of SparkBot you can either donate bitcoin or contri
 
 If you want to contribute to my source code you can fork my repositories.
 {% highlight bash %}
-git clone https://github.com/nrobinson2000/sparkbot-default.git
+$ git clone https://github.com/nrobinson2000/sparkbot-default.git
 
-git clone https://github.com/nrobinson2000/sparkbot.git
+$ git clone https://github.com/nrobinson2000/sparkbot.git
 {% endhighlight %}
 
 
