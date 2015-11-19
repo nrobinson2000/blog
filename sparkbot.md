@@ -67,7 +67,7 @@ I created the idea for SparkBot back in 9th grade. I have been developing it sin
 To help with the development of SparkBot you can either donate bitcoin or contribute to my GitHub repositories.  If you wish to suggest something for this page or correct anything you can [edit this page on GitHub][https://github.com/nrobinson2000/nrobinson2000.github.io/blob/master/sparkbot.md].
 
 If you want to contribute to my source code you can fork my repositories.
-{% highlight shell %}
+{% highlight bash %}
 git clone https://github.com/nrobinson2000/sparkbot-default.git
 
 git clone https://github.com/nrobinson2000/sparkbot.git
