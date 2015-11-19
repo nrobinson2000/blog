@@ -64,11 +64,8 @@ void loop()
 
 
 # **PCB and Pinout**
-<nav class="pic-nav">
-<center><img src="/PCB.png" width="370px" height="415px">
+<center><img src="/PCB.png" width="370px" height="415px"><img src="https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png" width="370px" height="523.14px"></center>
 
-<img src="https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png" width="370px" height="523.14px"></center>
-</nav>
 The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
 
 Getting a perfect pinout was difficult because of the limited number of PWM pins and analog pins.  The pins are all over the place, but are organized in my library with constants for the pins.
