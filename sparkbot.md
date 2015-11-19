@@ -53,8 +53,8 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 
 
 # **What do each of the pins do?**
-![](https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png)
-
+<!-- ![](https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png) -->
+<img src="https://raw.githubusercontent.com/nrobinson2000/sparkbot/master/PCB/Pinout.png" width="370px" height="523.14px">
 
 The SparkBot shield makes use of most of pins of the Photon, allowing it to work with all of the SparkBot components, as well as expose several pins for external GPIO.
 
