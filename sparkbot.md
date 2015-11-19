@@ -34,9 +34,9 @@ Based on a work at [https://github.com/nrobinson2000/sparkbot][2].
 
 SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
 
-#### [C++ Library][10]
+#### * [C++ Library][10]
 
-#### [Designs Repository][2]
+#### * [Designs Repository][2]
 
 It is likely that a third repository will be created for the SparkBot documentation.
 
