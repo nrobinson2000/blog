@@ -71,9 +71,6 @@ If you want to contribute to my source code you can fork my repositories.
 git clone https://github.com/nrobinson2000/sparkbot-default.git
 
 git clone https://github.com/nrobinson2000/sparkbot.git
-
-
-
 {% endhighlight %}
 
 
