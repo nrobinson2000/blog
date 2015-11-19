@@ -16,7 +16,7 @@ SparkBot is a two part product. Although it uses both hardware and software from
 
 # **Photon**
 
-SparkBot uses the Particle Photon as its brain. It runs C++ on its micro operating system, that communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB serial.
+SparkBot uses the Particle Photon as its brain. It runs C++ on its micro operating system, that communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with Dfu-util.
 
 The Photon is Particle's second IoT development board. Their first was the Core, a huge Kickstarter success. The Photon was developed without any Kickstarter support, and the Electron, their third board, which uses cellular technology, was successfully funded on Kickstarter this year.
 
