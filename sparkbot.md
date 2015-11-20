@@ -91,7 +91,7 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 
 SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)][8]  
+[![Creative Commons License](/cc.png)][8]  
 SparkBot by [Nathan Robinson][9] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][8].  
 Based on a work at [https://github.com/nrobinson2000/sparkbot][2].
 
