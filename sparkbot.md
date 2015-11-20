@@ -23,7 +23,7 @@ The Photon is Particle's second IoT development board. Their first was the Core,
 # **Code**
 I have developed a [C++ library][10] that makes using and programming SparkBot simpler and more convenient.  Below is the barebones code to use my library.
 
-{% highlight cpp %}
+```cpp
 #include "application.h"
 #include "sparkbot-default.h" // Import the sparkbot-default library.
 SYSTEM_THREAD(ENABLED);
@@ -57,10 +57,7 @@ void loop()
   sb.refresh();
 }
 
-
-
-
-{% endhighlight %}
+```
 
 
 # **PCB and Pinout**
