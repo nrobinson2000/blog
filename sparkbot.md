@@ -104,9 +104,10 @@ $ git clone https://github.com/nrobinson2000/sparkbot-default.git
 
 $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
-
-
-
+# **Todo list**
+* ```Get PCB from Ragworm delivered.  Assemble it with the components from Mouser.```
+* ```Test PCB.  Hopefully it will work perfectly this time.```
+* 
 
 [0]: https://github.com/nrobinson2000/sparkbot/zipball/master
 [1]: https://github.com/nrobinson2000/sparkbot/tarball/master
