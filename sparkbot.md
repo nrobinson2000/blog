@@ -70,7 +70,7 @@ Getting a perfect pinout was difficult because of the limited number of PWM pins
 # **Kit components**
 
 * 1 Particle Photon
-* 1 Micro usb cable
+* 1 Micro USB cable
 * 1 Half Breadboard
 * 1 Fully assembled Robot body
 * 10 Jumper wires
@@ -104,10 +104,9 @@ $ git clone https://github.com/nrobinson2000/sparkbot-default.git
 
 $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
-# **Todo list**
-* ```Get PCB from Ragworm delivered.  Assemble it with the components from Mouser.```
-* ```Test PCB.  Hopefully it will work perfectly this time.```
-* ```Start designing 3D models.```
+
+
+
 
 [0]: https://github.com/nrobinson2000/sparkbot/zipball/master
 [1]: https://github.com/nrobinson2000/sparkbot/tarball/master
