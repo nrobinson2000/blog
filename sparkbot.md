@@ -105,7 +105,10 @@ $ git clone https://github.com/nrobinson2000/sparkbot-default.git
 $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
 
-
+# **Todo list**
+* ```Get PCB from Ragrom and test it.```
+* ```Start to work on 3D models.```
+* ```Start writing documentation.```
 
 
 [0]: https://github.com/nrobinson2000/sparkbot/zipball/master
