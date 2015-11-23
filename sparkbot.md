@@ -134,7 +134,7 @@ IFTTT, (if this then that) is a website that allows web services to send data be
 * Step 4: Upload the webhook to the Particle cloud
 
 ```bash
-particle webhook create wemo.json
+$ particle webhook create wemo.json
 ```
 
 * Step 5: Toggle the Wemo switch from your code!
