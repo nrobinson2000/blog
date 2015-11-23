@@ -111,7 +111,7 @@ $ git clone https://github.com/nrobinson2000/sparkbot.git
 * ```Start to work on 3D models.```
 * ```Start writing documentation.```
 
-## Using SparkBot with IFTTT
+## Using IFTTT with SparkBot
 IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
 #### **How to use webhooks with a SparkBot to communicate with IFTTT and control anything.**
 *Note: You must have a Photon / SparkBot already set up and be logged into [Particle CLI](https://github.com/spark/particle-cli) on your machine.*
