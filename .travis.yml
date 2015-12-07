@@ -2,7 +2,7 @@ rvm:
   - 2.2.0
 
 install:
-  - gem install redcarpet markdown_checkboxes jekyll
+  - gem install redcarpet  jekyll
 
 script:
   - jekyll build
