@@ -6,16 +6,13 @@ permalink: /sparkbot/
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
 ## Outline
-
 SparkBot is a robotics kit designed for makers and hobbyists, recommended for individuals aged 12 and up. It uses the Photon by Particle to teach C++ and principles of the Internet of Things. Its goal is to teach functional robotics, Arduino, and REST API's in an understandable method.
 
 The purpose of SparkBot is to create a robot front end for the Photon that will get people excited to program and make projects with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
 
 SparkBot is a two part product. Although it uses both hardware and software from Particle, unique PCBs and 3D printed bodies must be produced. SparkBot also has its own software library with custom C++ functions to improve the SparkBot programming experience.
 
-
 ## Photon
-
 SparkBot uses the Particle Photon as its brain. It runs C++ on its micro operating system, that communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
 
 The Photon is Particle's second IoT development board. Their first was the Core, a huge Kickstarter success. The Photon was developed without any Kickstarter support, and the Electron, their third board, which uses cellular technology, was successfully funded on Kickstarter this year.
@@ -48,10 +45,6 @@ void setup() // Mandatory setup function.
   interrupts();
   Particle.subscribe("syncServos", &syncServosHandler, MY_DEVICES);
   Particle.subscribe("RGB", &RGBSlaveHandler, MY_DEVICES);
-
-  sb.moveNeck(90);
-  sb.moveLeft(90);
-  sb.moveRight(90);
 }
 
 void loop()
@@ -69,7 +62,6 @@ The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to 
 Getting a perfect pinout was difficult because of the limited number of PWM pins and analog pins.  The pins are all over the place, but are organized in my library with constants for the pins.
 
 ## Kit components
-
 * 1 Particle Photon
 * 1 Micro USB cable
 * 1 Half Breadboard
@@ -79,7 +71,6 @@ Getting a perfect pinout was difficult because of the limited number of PWM pins
 * 1 User manual and quickstart guide
 
 ## Repositories
-
 SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
 
 #### [C++ Library][10]
@@ -89,7 +80,6 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 *It is likely that a third repository will be created for the SparkBot documentation.*
 
 ## Open Source
-
 SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
 
 [![Creative Commons License](/cc.png)][8]  
@@ -117,11 +107,11 @@ IFTTT, (if this then that) is a website that allows web services to send data be
 *Note: You must have a Photon / SparkBot already set up and be logged into [Particle CLI](https://github.com/spark/particle-cli) on your machine.*
 
 * Step 1: Create an [IFTTT account](https://iftt.com)
-* Step 2: Create a recipe that uses the [Maker channel trigger](https://ifttt.com/channels/maker/triggers/1636368624-receive-a-web-request) or use the recipe below to control a Wemo switch.  *Name the event wemo.*
+* Step 2: Create a recipe that uses the [Maker channel trigger](https://ifttt.com/channels/maker/triggers/1636368624-receive-a-web-request) or use the recipe below to control a Wemo switch.  *Name the event **wemo.***
 
 <center><a href="https://ifttt.com/view_embed_recipe/302832-toggle-wemo-switch-with-http-get-request" target = "_blank" class="embed_recipe embed_recipe-l_40" id= "embed_recipe-302832"><img src= 'https://ifttt.com/recipe_embed_img/302832' alt="IFTTT Recipe: Toggle Wemo Switch with HTTP GET request connects maker to wemo-switch" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></center>
 
-* Step 3: Create a .json file for the webhook. *Name the file wemo.json*
+* Step 3: Create a .json file for the webhook. *Name the file **wemo.json***
 {% highlight json %}
 {
   "eventName": "toggleWemo",
