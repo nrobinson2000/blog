@@ -97,17 +97,17 @@ $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
 
 ## Todo list
-* ```Finish writing firmware.```
+```
+Finish writing firmware.Finish designing PCB and buy all of the components I need.
 
-* ```Finish designing PCB and buy all of the components I need.```
+Design, finish and 3D print body parts.
 
-* ```Design, finish and 3D print body parts.```
+Finish first fully working prototype.
 
-* ```Finish first fully working prototype.```
+Make a second robot.
 
-* ```Make a second robot.```
-
-* ```Develop website for sharing projects, designs and code, and develop an app for controlling and monitoring robots.```
+Develop website for sharing projects, designs and code, and develop an app for controlling and monitoring robots.
+```
 
 ## Using IFTTT with SparkBot
 IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
