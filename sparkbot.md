@@ -107,11 +107,11 @@ IFTTT, (if this then that) is a website that allows web services to send data be
 *Note: You must have a Photon / SparkBot already set up and be logged into [Particle CLI](https://github.com/spark/particle-cli) on your machine.*
 
 * Step 1: Create an [IFTTT account](https://iftt.com)
-* Step 2: Create a recipe that uses the [Maker channel trigger](https://ifttt.com/channels/maker/triggers/1636368624-receive-a-web-request) or use the recipe below to control a Wemo switch.  *Name the event **wemo.***
+* Step 2: Create a recipe that uses the [Maker channel trigger](https://ifttt.com/channels/maker/triggers/1636368624-receive-a-web-request) or use the recipe below to control a Wemo switch.  *Name the event* ***wemo.***
 
 <center><a href="https://ifttt.com/view_embed_recipe/302832-toggle-wemo-switch-with-http-get-request" target = "_blank" class="embed_recipe embed_recipe-l_40" id= "embed_recipe-302832"><img src= 'https://ifttt.com/recipe_embed_img/302832' alt="IFTTT Recipe: Toggle Wemo Switch with HTTP GET request connects maker to wemo-switch" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script></center>
 
-* Step 3: Create a .json file for the webhook. *Name the file **wemo.json***
+* Step 3: Create a .json file for the webhook. *Name the file* ***wemo.json***
 {% highlight json %}
 {
   "eventName": "toggleWemo",
