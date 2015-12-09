@@ -98,10 +98,15 @@ $ git clone https://github.com/nrobinson2000/sparkbot.git
 
 ## Todo list
 * ```Finish writing firmware.```
+
 * ```Finish designing PCB and buy all of the components I need.```
+
 * ```Design, finish and 3D print body parts.```
+
 * ```Finish first fully working prototype.```
+
 * ```Make a second robot.```
+
 * ```Develop website for sharing projects, designs and code, and develop an app for controlling and monitoring robots.```
 
 ## Using IFTTT with SparkBot
