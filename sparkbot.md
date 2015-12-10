@@ -6,16 +6,50 @@ permalink: /sparkbot/
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
 ## Outline
-SparkBot is a robotics kit designed for makers and hobbyists, recommended for individuals aged 12 and up. It uses the Photon by Particle to teach C++ and principles of the Internet of Things. Its goal is to teach functional robotics, Arduino, and REST API's in an understandable method.
+The goal of my project is to create a modular IoT robotics platform with a customizable 3D printed body, an addon system, and a website for sharing community created code, addon boards and and body designs for other users to use and enjoy.
 
-The purpose of SparkBot is to create a robot front end for the Photon that will get people excited to program and make projects with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
+My project will use the [Particle Photon](https://particle.io/), an inexpensive programmable Wi-Fi development board that I am very fond of.  The Photon runs C++ on its micro operating system, and communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
 
-SparkBot is a two part product. Although it uses both hardware and software from Particle, unique PCBs and 3D printed bodies must be produced. SparkBot also has its own software library with custom C++ functions to improve the SparkBot programming experience.
+SparkBot is a kit designed for students at any age who are interested in technology or robotics.  Its purpose is to create a robot front end for the Photon that will get people excited to program and create things with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
 
-## Photon
-SparkBot uses the Particle Photon as its brain. It runs C++ on its micro operating system, that communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
+## Todo list
+* #### Finish writing firmware
+```I have almost finished writing my code for my robot, and my C++ library is nearly completed.  I aim to have my code in a production ready state by the end of December.```
 
-The Photon is Particle's second IoT development board. Their first was the Core, a huge Kickstarter success. The Photon was developed without any Kickstarter support, and the Electron, their third board, which uses cellular technology, was successfully funded on Kickstarter this year.
+* #### Finish designing my PCB and buy all of the components I need
+```I am also very close to finishing my PCB.  I may need to make another order so that I can have all of the improvements of my latest design.  I also have all of the parts that I need, assuming I am only building two SparkBots.  I am already finished with this step.```
+
+* #### Design, finish and 3D print body parts
+```I need make the 3D models for my robot to put its parts inside, and give it its body.  I hope to have these done and 3D printed by mid January.```
+
+* #### Finish first fully working prototype
+```I want to have a fully working final robot by mid February.  I will need to get all of my designs right.```
+
+* #### Make a second robot
+```After I have one final robot, I will quickly assemble another so that I will have two robots when I present my project.```
+
+* #### Develop a website for sharing projects, designs and code, and develop an app for controlling and monitoring robots
+```After I am done making my robot(s), I will create a website for people to share code and designs, and an app for me to monitor and control my robots.```
+
+* #### Write a user manual and quick start guide
+```I want to write a proper documentation for my robot.  I will make an online documentation as well as a paper documentation to have when I present my project.```
+
+* #### Launch my project on Kickstarter?
+```If my project goes really well I think I might put my project on Kickstarter, so that other people will be able to buy my product and be a part of the SparkBot community.```
+
+## Hardware
+My project uses many components and several custom designed PCBs.  I have made several versions of the main PCB, each one with fixes and corrections from the last.  Below is a representational image of the PCB, and an image of the Photon pins used by the PCB.
+
+<center><img src="/PCB.png" width="351.5px" height="394.25px"><img src="/Pinout.png" width="370.31px" height="470.573px"></center><br>
+
+The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
+
+Getting a perfect pinout was difficult because of the limited number of PWM pins and analog pins.  The pins are all over the place, but are organized in my library with constants for the pins.
+
+Below is a picture of one of my Photons connected to the PCB I have developed.  It is connected to three servos, a microphone, a button, and an LED.
+
+<center>![Top-View](/top-view.jpg)</center>
+
 
 ## Code
 I have developed a [C++ library][10] that makes using and programming SparkBot simpler and more convenient.
@@ -54,30 +88,6 @@ void loop()
 ```
 
 
-## PCB and Pinout
-<center><img src="/PCB.png" width="351.5px" height="394.25px"><img src="/Pinout.png" width="370.31px" height="470.573px"></center><br>
-
-The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
-
-Getting a perfect pinout was difficult because of the limited number of PWM pins and analog pins.  The pins are all over the place, but are organized in my library with constants for the pins.
-
-## Kit components
-* 1 Particle Photon
-* 1 Micro USB cable
-* 1 Half Breadboard
-* 1 Fully assembled Robot body
-* 10 Jumper wires
-* 1 Protective travel case
-* 1 User manual and quickstart guide
-
-## Repositories
-SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
-
-#### [C++ Library][10]
-
-#### [Designs Repository][2]
-
-*It is likely that a third repository will be created for the SparkBot documentation.*
 
 ## Open Source
 SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
@@ -96,18 +106,23 @@ $ git clone https://github.com/nrobinson2000/sparkbot-default.git
 $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
 
-## Todo list
-```
-Finish writing firmware.Finish designing PCB and buy all of the components I need.
+## Repositories
+SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
 
-Design, finish and 3D print body parts.
+#### [C++ Library][10]
 
-Finish first fully working prototype.
+#### [Designs Repository][2]
 
-Make a second robot.
+*It is likely that a third repository will be created for the SparkBot documentation.*
 
-Develop website for sharing projects, designs and code, and develop an app for controlling and monitoring robots.
-```
+## Kit components
+* 1 Particle Photon
+* 1 Micro USB cable
+* 1 Half Breadboard
+* 1 Fully assembled Robot body
+* 10 Jumper wires
+* 1 Protective travel case
+* 1 User manual and quickstart guide
 
 ## Using IFTTT with SparkBot
 IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
