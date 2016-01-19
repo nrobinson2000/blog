@@ -10,7 +10,7 @@ permalink: /donate/
 </a>
 
 # This page should automatically open my address in your Bitcoin wallet.  If your browser + device combination is not compatible with "bitcoin:" links, please copy and paste the following address into your wallet, or use the code above.
-### **1HRNnK7E5jcpkLwSDQTWY2JDLpPcNcSi7G**
+#### **1HRNnK7E5jcpkLwSDQTWY2JDLpPcNcSi7G**
 
 </center>
 
