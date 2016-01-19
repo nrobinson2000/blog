@@ -9,7 +9,10 @@ permalink: /donate/
 <div id="qrcode"></div>
 
 
+<script>
+jQuery('#qrcode').qrcode("bitcoin:1HRNnK7E5jcpkLwSDQTWY2JDLpPcNcSi7G");
 
+</script>
 
 
 
