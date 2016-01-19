@@ -14,7 +14,7 @@ permalink: /donate/
 
 
 
-#### [Own an iDevice and want a wallet that will run off of just your iPhone/Pod/Pad?  I have been using Breadwallet, and I would recommend it to everyone.](http://breadwallet.com)
+#### [Own an iDevice and want a Bitcoin wallet that will run off of just your iPhone/Pod/Pad without any centralized servers?  Start using Breadwallet now.](http://breadwallet.com)
 </center>
 
 
