@@ -9,7 +9,7 @@ permalink: /donate/
 <div id="qrcode"></div>
 </a>
 
-# This page should automatically ask to open my address in your Bitcoin wallet.  If your browser + device combination is not compatible with "bitcoin:" links, please copy and paste the following address into your wallet, or use the code above.
+# This page should automatically open my address in your Bitcoin wallet.  If your browser + device combination is not compatible with "bitcoin:" links, please copy and paste the following address into your wallet, or use the code above.
 #### **1HRNnK7E5jcpkLwSDQTWY2JDLpPcNcSi7G**
 
 
