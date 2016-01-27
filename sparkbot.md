@@ -132,7 +132,7 @@ SparkBot is organized into two repositories. One for the C++ library, and the ot
 * 1 Fully assembled Robot body
 * 10 Jumper wires
 * 1 Protective travel case
-* 1 User manual and quickstart guide
+* 1 User manual and quick start guide
 
 ## Using IFTTT with SparkBot
 IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
