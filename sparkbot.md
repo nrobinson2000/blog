@@ -13,6 +13,8 @@ My project will use the [Particle Photon](https://particle.io/), an inexpensive 
 
 SparkBot is a kit designed for students at any age who are interested in technology or robotics.  Its purpose is to create a robot front end for the Photon that will get people excited to program and create things with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
 
+## Planning
+My [finished timeline](https://docs.google.com/document/d/1ECvW88TkWGvGFmdw64F-xl0qW6fytZt4299X66oWscc/edit) can be found on Google Drive.
 ## Todo list
 * #### Finish writing firmware
 >I have almost finished writing my code for my robot, and my C++ library is nearly completed.  I aim to have my code in a production ready state by the end of December.
