@@ -1,6 +1,6 @@
+[![Join the chat at https://gitter.im/nrobinson2000/nrobinson2000.github.io](https://badges.gitter.im/nrobinson2000/nrobinson2000.github.io.svg)](https://gitter.im/nrobinson2000/nrobinson2000.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Notes:
 
-[![Join the chat at https://gitter.im/nrobinson2000/nrobinson2000.github.io](https://badges.gitter.im/nrobinson2000/nrobinson2000.github.io.svg)](https://gitter.im/nrobinson2000/nrobinson2000.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Explain why I am using GitHub over Google Drive,
 * Explain why I made my own PCB over using a Breadboard.
 * Explain why I made my own website over the standard template.
