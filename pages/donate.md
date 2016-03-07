@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: app
 title: Donate
 permalink: /donate/
 ---
@@ -22,4 +22,3 @@ permalink: /donate/
 jQuery('#qrcode').qrcode("bitcoin:1HRNnK7E5jcpkLwSDQTWY2JDLpPcNcSi7G");
 
 </script>
-

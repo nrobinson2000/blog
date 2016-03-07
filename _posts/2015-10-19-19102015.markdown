@@ -24,4 +24,4 @@ I added a `nav_message` field in `_config.yml`.  Whatever HTML I put into it is 
 
 
 * I updated the `particle.svg` icon in the footer so its now in a circle.  I had to use Inkscape and change the SVG code.  Magnified, it looks like this.
-<center><img src="/particle.svg" width="100px" height="100px"></center>
+<center><img src="/images/particle.svg" width="100px" height="100px"></center>

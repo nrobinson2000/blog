@@ -52,7 +52,7 @@ My [finished timeline](https://docs.google.com/document/d/1ECvW88TkWGvGFmdw64F-x
 ## Hardware
 My project uses many components and several custom designed PCBs.  I have made several versions of the main PCB, each one with fixes and corrections from the last.  Below is a representational image of the PCB, and an image of the Photon pins used by the PCB.
 
-<center><img src="/PCB.png" width="351.5px" height="394.25px"><img src="/Pinout.png" width="370.31px" height="470.573px"></center><br>
+<center><img src="/images/PCB.png" width="351.5px" height="394.25px"><img src="/images/Pinout.png" width="370.31px" height="470.573px"></center><br>
 
 The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
 
@@ -60,7 +60,7 @@ Getting a perfect pinout was difficult because of the limited number of PWM pins
 
 Below is a picture of one of my Photons connected to the PCB I have developed.  It is connected to three servos, a microphone, a button, and an LED.
 
-<center>![Top-View](/top-view.jpg)</center>
+<center>![Top-View](/images/top-view.jpg)</center>
 
 
 ## Code
@@ -104,7 +104,7 @@ void loop()
 ## Open Source
 SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
 
-[![Creative Commons License](/cc.png)][8]  
+[![Creative Commons License](/images/cc.png)][8]  
 SparkBot by [Nathan Robinson][9] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][8].  
 Based on a work at [https://github.com/nrobinson2000/sparkbot][2].
 
