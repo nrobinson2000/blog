@@ -20,13 +20,11 @@ permalink: /app/
 # playSound
 <input type="range" id="neck" min="0" max="255" value="0" step="5" onchange="callFunction('playSound', this.value)"/> Volume<br>
 
+<div onclick="setInterval(getNoise, 2500);
+setInterval(getBrightness, 2500);">
 <h1 id="noiselevel">noise</h1>
-
 <h1 id="brightnesslevel">brightness</h1>
+</div>
 
-<button type="button" onclick="
-setInterval(getNoise, 2500);
-setInterval(getBrightness, 2500);
-">Start</button>
 </div>
 </center>
