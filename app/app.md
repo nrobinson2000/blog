@@ -3,7 +3,7 @@ layout: app
 title: App
 permalink: /app/
 ---
-
+<center>
 <script src="app.js"></script>
 # moveServos
 <input type="range" id="neck" min="0" max="180" value="90" step="5" onchange="setNeck(this.value)"/> Neck<br>
@@ -16,6 +16,8 @@ permalink: /app/
 <input type="range" id="left"  min="0" max="255" value="0" step="5" onchange="setGreen(this.value)"/> Green<br>
 <input type="range" id="right" min="0" max="255" value="0" step="5" onchange="setBlue(this.value)" /> Blue<br>
 
+# playSound
+<input type="range" id="neck" min="0" max="255" value="0" step="5" onchange="callFunction("playSound", this.value)"/> Volume<br>
 
 <h1 id="noiselevel">noise</h1>
 
@@ -25,3 +27,4 @@ permalink: /app/
 setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);
 ">Start</button>
+</center>
