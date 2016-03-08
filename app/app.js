@@ -59,29 +59,37 @@ function makeProper(value)
 function setNeck(data)
 {
   neck = data;
-  updateServos()
+  callFunction("moveServos", makeProper(neck) + " 200 200");
 }
 
 function setLeft(data)
 {
   left = data;
-  updateServos()
+  callFunction("moveServos", "200 " + makeProper(left) + " 200");
 }
 
 function setRight(data)
 {
   right = data;
-  updateServos();
+  callFunction("moveServos", "200 200 " + makeProper(right));
 }
 
-function updateServos()
+function setRed(data)
 {
-  callFunction("moveServos", makeProper(neck) + " " + makeProper(left) + " " + makeProper(right));
+  red = data;
+  callFunction("moodlights", makeProper(red) + " 300 300");
 }
 
-function moodlights()
+function setGreen(data)
 {
-  callFunction("moodlights", makeProper(red) + " " + makeProper(green) + " " + makeProper(blue));
+  green = data;
+  callFunction("moodlights", "300 " + makeProper(green) +" 300");
+}
+
+function setBlue(data)
+{
+  blue = data;
+  callFunction("moodlights", "300 300 " + makeProper(blue));
 }
 
 function getNoise()
@@ -98,6 +106,3 @@ function getBrightness()
   var obj = JSON.parse(response);
   document.getElementById("brightnesslevel").innerHTML = "brightness = " + obj.result;
 }
-
-setInterval(getNoise, 2500);
-setInterval(getBrightness, 2500);
