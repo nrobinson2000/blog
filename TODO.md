@@ -20,4 +20,4 @@ permalink: /todo/
 
 ## Reflection:
 * Talk about challenges.  (Not enough PWMs, Designing my own PCB, Creating my 3D Models, Paying more for shipping than the components.)
-* Comercial Aspect
+* Commercial Aspect
