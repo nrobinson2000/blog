@@ -27,7 +27,6 @@ permalink: /app/
 <button type="button" onclick="
 setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);
-this.innerHTML='';
 ">Start</button>
 </div>
 </center>
