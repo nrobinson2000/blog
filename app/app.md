@@ -3,8 +3,9 @@ layout: app
 title: App
 permalink: /app/
 ---
-<center>
 <script src="app.js"></script>
+<center>
+<div>
 # moveServos
 <input type="range" id="neck" min="0" max="180" value="90" step="5" onchange="setNeck(this.value)"/> Neck<br>
 <input type="range" id="left"  min="0" max="180" value="90" step="5" onchange="setLeft(this.value)"/> Left<br>
@@ -27,4 +28,5 @@ permalink: /app/
 setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);
 ">Start</button>
+</div>
 </center>
