@@ -23,7 +23,7 @@ permalink: /app/
 <h1 id="noiselevel">noise</h1>
 
 <h1 id="brightnesslevel">brightness</h1>
-<br>
+
 <button type="button" onclick="
 setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);
