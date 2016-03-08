@@ -23,7 +23,7 @@ permalink: /app/
 <div onclick="setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);">
 <h1 id="noiselevel">noise (tap to begin tracking)</h1>
-<h1 id="brightnesslevel">brightness</h1>
+<h1 id="brightnesslevel">brightness (tap to begin tracking)</h1>
 </div>
 
 </div>
