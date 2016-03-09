@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SparkBot
+title: Product
 permalink: /sparkbot/
 ---
 
