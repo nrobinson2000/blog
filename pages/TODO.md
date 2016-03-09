@@ -3,7 +3,6 @@ layout: page
 title: To do
 permalink: /todo/
 ---
-## Todo list
 #### Finish writing firmware
 >I have almost finished writing my code for my robot, and my C++ library is nearly completed.  I aim to have my code in a production ready state by the end of December.
 
