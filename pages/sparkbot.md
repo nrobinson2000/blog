@@ -15,39 +15,6 @@ SparkBot is a kit designed for students at any age who are interested in technol
 
 ## Planning
 My [finished timeline](https://docs.google.com/document/d/1ECvW88TkWGvGFmdw64F-xl0qW6fytZt4299X66oWscc/edit) can be found on Google Drive.
-## Todo list
-* #### Finish writing firmware
->I have almost finished writing my code for my robot, and my C++ library is nearly completed.  I aim to have my code in a production ready state by the end of December.
-
-* #### Finish designing my PCB and buy all of the components I need
->I am also very close to finishing my PCB.  I may need to make another order so that I can have all of the improvements of my latest design.  I also have all of the parts that I need, assuming I am only building two SparkBots.  I am almost finished with this step.
-
-* #### Design, finish and 3D print body parts
->I need make the 3D models for my robot to put its parts inside, and give it its body.  I hope to have these done and 3D printed by mid February.
-
-* #### Finish first fully working prototype
->I want to have a fully working final robot by late February.  I will need to get all of my designs right.
-
-* #### Make a second robot
->After I have one final robot, I will quickly assemble another so that I will have two robots when I present my project.
-
-* #### Develop a website for sharing projects, designs and code, and develop an app for controlling and monitoring robots
->After I am done making my robot(s), I will create a website for people to share code and designs, and an app for me to monitor and control my robots.
-
-* #### Write a user manual and quick start guide
->I want to write a proper documentation for my robot.  I will make an online documentation as well as a paper documentation to have when I present my project.
-
-* #### Write my reflection
-
-> I need to write my reflection and talk about the following topics:
-
->* Why I am using GitHub over Google Drive.
-
->* Why I made my own PCB over using a breadboard.
-
->* Why I made my own website over the standard template.
-
->* Challenges.  PWMS, PCB, 3D Models
 
 ## Hardware
 My project uses many components and several custom designed PCBs.  I have made several versions of the main PCB, each one with fixes and corrections from the last.  Below is a representational image of the PCB, and an image of the Photon pins used by the PCB.
