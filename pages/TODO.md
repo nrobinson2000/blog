@@ -13,7 +13,7 @@ permalink: /todo/
 >I want to have a fully working prototype by late February.  I will need to get all of my designs right.
 
 #### Develop a website for my project and develop an app for controlling and monitoring my product.
->After I am done making my robot(s), I will create a website for people to share code and designs, and an app for me to monitor and control my robots.
+>After I am done making my product, I will create a website for people to share code and designs, and an app for me to monitor and control my robots.
 
 #### Write a user manual and quick start guide.
 >I want to write a proper documentation for my robot.  I will make an online documentation as well as a paper documentation to have when I present my project.
