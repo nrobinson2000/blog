@@ -86,13 +86,13 @@ $ git clone https://github.com/nrobinson2000/sparkbot.git
 ```
 
 ## Repositories
-SparkBot is organized into two repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
+SparkBot is organized into three repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
 
-#### [C++ Library][10]
+#### [C++ Library and Photon Code][10]
 
-#### [Designs Repository][2]
+#### [Designs and Arduino Code][2]
 
-*It is likely that a third repository will be created for the SparkBot documentation.*
+#### [Website](https://github.com/nrobinson2000/nrobinson2000.github.io)
 
 ## Kit components
 * 1 Particle Photon
