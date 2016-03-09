@@ -17,9 +17,9 @@ SparkBot is a kit designed for students at any age who are interested in technol
 My [finished timeline](https://docs.google.com/document/d/1ECvW88TkWGvGFmdw64F-xl0qW6fytZt4299X66oWscc/edit) can be found on Google Drive.
 
 ## Hardware
-My project uses many components and several custom designed PCBs.  I have made several versions of the main PCB, each one with fixes and corrections from the last.  Below is a representational image of the PCB, and an image of the Photon pins used by the PCB.
+My project uses many components and several custom designed PCBs.  I have made several versions of the main PCB, each one with fixes and corrections from the last.  Below is a representational image of the PCB, and an image of the Photon and Arduino pins used by the PCB.
 
-<center><img src="/images/PCB.png" width="351.5px" height="394.25px"><img src="/images/Pinout.png" width="370.31px" height="470.573px"></center><br>
+<center><img src="/images/PCB.png" width="351.5px"><img src="/images/Pinout.png" width="370.31px" height="470.573px"></center><br>
 
 The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
 
