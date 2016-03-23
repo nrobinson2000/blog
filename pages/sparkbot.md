@@ -95,15 +95,15 @@ SparkBot is organized into three repositories. One for the C++ library, and the 
 #### [Website](https://github.com/nrobinson2000/nrobinson2000.github.io)
 
 ## Components
-* 1x Particle Photon and Micro USB cable
-* 1x Arduino Nano and Mini USB cable
-* 1x Microphone
+* [1x Particle Photon and Micro USB cable](https://store.particle.io/)
+* [1x Arduino Nano and Mini USB cable](http://www.amazon.co.uk/Nano-ATmega328P-Module-Arduino-Compatible/dp/B00H38Y3J6/ref=sr_1_4?ie=UTF8&qid=1458743713&sr=8-4&keywords=arduino+nano)
+* [1x Microphone](http://www.amazon.co.uk/Breakout-Board-for-Electret-Microphone/dp/B00563V0T6/ref=sr_1_1?ie=UTF8&qid=1458743775&sr=8-1&keywords=sparkfun+electret)
 * 1x Photoresistor
 * 1x RGB LED
 * 1x Button
 * 1x Piezo Buzzer
 * 1x Blue LED
-* 3x Servos
+* [3x Servos](https://www.adafruit.com/products/169)
 * 2x 12 Pin Header
 * 2x 15 Pin Header
 * 1x 9 Pin Header
