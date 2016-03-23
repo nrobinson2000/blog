@@ -95,8 +95,8 @@ SparkBot is organized into three repositories. One for the C++ library, and the 
 #### [Website](https://github.com/nrobinson2000/nrobinson2000.github.io)
 
 ## Components
-* 1x Particle Photon
-* 1x Arduino Nano
+* 1x Particle Photon and Micro USB cable
+* 1x Arduino Nano and Mini USB cable
 * 1x Microphone
 * 1x Photoresistor
 * 1x RGB LED
@@ -107,6 +107,7 @@ SparkBot is organized into three repositories. One for the C++ library, and the 
 * 2x 12 Pin Header
 * 2x 15 Pin Header
 * 1x 9 Pin Header
+
 
 ## Using IFTTT with SparkBot
 IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
