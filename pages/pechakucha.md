@@ -48,3 +48,144 @@ I want to make my PechaKucha into a video and embed it on this page.
 * **16:**
 * **17:**
 * **18 / Evaluation of Project:**
+
+<table border="1" cellpadding="0" cellspacing="0" style="font-size:13.3333px;margin-left:27pt;border-collapse:collapse;border:none" width="545">
+<tbody>
+<tr style="height:13.8pt">
+<td colspan="5" style="padding:5pt;width:545pt;border:1pt solid black;height:13.8pt;background:rgb(183,183,183)" valign="top" width="545">
+<p align="center" style="text-align:center;line-height:normal"><b><span lang="EN-US">Part I: Pecha Kucha</span></b></p>
+</td>
+</tr>
+<tr style="height:13.8pt">
+<td style="padding:5pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:13.8pt;background:rgb(183,183,183)" valign="top" width="46">
+<p align="center" style="text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:13.8pt;background:rgb(183,183,183)" valign="top" width="125">
+<p align="center" style="text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">1-2</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:13.8pt;background:rgb(183,183,183)" valign="top" width="125">
+<p align="center" style="text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">2-3</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:13.8pt;background:rgb(183,183,183)" valign="top" width="125">
+<p align="center" style="text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">4-5</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:13.8pt;background:rgb(183,183,183)" valign="top" width="125">
+<p align="center" style="text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">6-7</span></b></p>
+</td>
+</tr>
+<tr style="height:0.85in">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:0.85in" valign="top" width="46">
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US">Basics</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:0.85in" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The presentation does not loop to have 20 slides timed to advance every 20 seconds, OR the presentation has major technical flaws.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:0.85in" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The presentation has a loop of 20 slides timed to advance every 20 seconds, but the presentation has several minor technical flaws.&nbsp;<br>
+</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:0.85in" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The presentation has a loop of 20 slides timed to advance every 20 seconds. The presentation runs with occasional minor flaws.&nbsp;<br>
+</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:0.85in" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The presentation has a loop of 20 slides timed to advance every 20 seconds. The presentation runs flawlessly (technology-wise).&nbsp;<br>
+</span></p>
+</td>
+</tr>
+<tr style="height:82.25pt">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:82.25pt" valign="top" width="46">
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Preparation &amp;</span></b></p>
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Presentation</span></b></p>
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">of Script</span></b></p>
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:82.25pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt;color:black">It appears that the presenter&nbsp;</span><br>
+<span lang="EN-US" style="font-size:9pt;color:black">did not prepare a script or did not rehearse, OR demonstrated minimal&nbsp;</span><br>
+<span lang="EN-US" style="font-size:9pt;color:black">knowledge of the subject matter, OR frequently read off notes to audience.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:82.25pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt;color:black">It appears the presenter prepared a mediocre script or was not adequately</span><span lang="EN-US" style="font-size:9pt;color:black">&nbsp;rehearsed, or demonstrated&nbsp;</span><br>
+<span lang="EN-US" style="font-size:9pt;color:black">marginal knowledge of the subject matter, and occasionally read off notes to the audience.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:82.25pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt;color:black">The presenter obviously prepared a script, rehearsed, demonstrated&nbsp;</span><span style="color:rgb(0,0,0);font-size:12px;background-color:transparent">strong knowledge of the subject matter, and did not read off notes to&nbsp;</span>audience<span style="color:rgb(0,0,0);font-size:12px;background-color:transparent">.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:82.25pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt;color:black">The presenter obviously prepared a compelling script, rehearsed,<br>
+</span><span style="color:rgb(0,0,0);font-size:12px;background-color:transparent">demonstrated superior knowledge of the subject matter, and did not read off notes to&nbsp;</span>audience<span style="color:rgb(0,0,0);font-size:12px;background-color:transparent">.</span></p>
+</td>
+</tr>
+<tr style="height:56.7pt">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:56.7pt" valign="top" width="46">
+<p style="margin:0in 5.65pt 0.0001pt;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Organization</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The Pecha Kucha was unorganized and difficult to follow. Ideas and images were put together with little thought to audience understanding.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The Pecha Kucha was poorly organized and not easy to follow. Ideas and images were put together in a way that made comprehension difficult.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The Pecha Kucha was fairly organized and the ideas flowed well. There were perhaps jumps and transitions that were not entirely seamless. Easily understood.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The Pecha Kucha was extremely organized.&nbsp; The ideas and images flowed in a manner that was easy to follow and understand. The material transitioned seamlessly from slide to slide.</span></p>
+</td>
+</tr>
+<tr style="height:56.7pt">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:56.7pt" valign="top" width="46">
+<p style="text-align:center;margin:0in 5.65pt 0.0001pt;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Visual Appeal</span></b></p>
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">and Creativity</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Visual images/text are poorly chosen or too few in number. OR the quality of the images is not legible, OR used a particularly garnish or distracting visual design for the presentation.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The presenter has used adequate quality visual images, but does not use a creative or interesting visual design for the presentation.&nbsp; The images/text chosen distract from the presentation.</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The images/text chosen were appropriate and depict the material. The presenter has used good quality visual images and has used a creative/ interesting visual design for the presentation.&nbsp;</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">The images/text chosen were appropriate and extremely thoughtful to the topic and conveyed in an excellent manner the Pecha Kucha's purpose. The audience was informed and entertained.</span></p>
+</td>
+</tr>
+<tr style="height:56.7pt">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:56.7pt" valign="top" width="46">
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Spelling/ Grammar</span></b></p>
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><span lang="EN-US" style="font-size:8pt;color:rgb(67,67,67)">(If applicable)</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Presentation has more than 2 spelling and/or grammatical errors</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Presentation has 2 misspellings and/or&nbsp; &nbsp;grammatical errors</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Presentation has 1 misspelling or grammatical error</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Presentation has no misspellings or grammatical errors</span></p>
+</td>
+</tr>
+<tr style="height:56.7pt">
+<td style="padding:2pt;width:45.5pt;border-style:none solid solid;border-right-color:black;border-bottom-color:black;border-left-color:black;border-right-width:1pt;border-bottom-width:1pt;border-left-width:1pt;height:56.7pt" valign="top" width="46">
+<p align="center" style="margin:0in 5.65pt 0.0001pt;text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:10pt">Presentation Skills</span></b></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Demonstrated weak presentation skills (pace/tone/volume, confidence/poise, gestures</span><span style="font-size:12px;background-color:transparent">, if applicable</span><span style="font-size:9pt;background-color:transparent">).</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Demonstrated fair presentation skills (pace/tone/volume, confidence/poise, gestures</span><span style="font-size:12px;background-color:transparent">, if applicable</span><span style="font-size:9pt;background-color:transparent">).</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.85pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Demonstrated sound</span><span lang="EN-US" style="font-size:9pt;font-family:MS Mincho"> </span><span lang="EN-US" style="font-size:9pt">presentation skills (pace/tone/volume, confidence/poise, gestures</span><span style="font-size:12px;background-color:transparent">, if applicable</span><span style="font-size:9pt;background-color:transparent">).</span></p>
+</td>
+<td style="padding:0in 5.4pt;width:124.9pt;border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;height:56.7pt" valign="top" width="125">
+<p style="line-height:normal"><span lang="EN-US" style="font-size:9pt">Demonstrated outstanding presentation skills (pace/tone/volume, confidence/poise, gestures, if applicable)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
