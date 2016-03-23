@@ -37,17 +37,18 @@ I want to make my PechaKucha into a video and embed it on this page.
 * **10 underside of board:** There was in fact a mistake in this board.  On the bottom there was an overlapping wire that I had to cut at two points and solder some scrap wire across the board to replace that wire.  This wire covered up the RGB port on the PCB.  Additionally, the microphone port on the board was wired backwards because the part in Fritzing was incorrect.
 <img src="/PechaKucha/GoodPictures/IMG_1671.jpg">
 * **11 board plugged into motors:** Here is a picture of my project with the 3.0 board.  I had to use a bread board because the microphone was backwards and because I didn't want to have to solder any additional parts to this board because I knew I needed to order a replacement.
+<img src="/PechaKucha/GoodPictures/IMG_1767.jpg">
+* **12 breadboarding:** Here is the breadboard prototype of my board.
 <img src="/PechaKucha/GoodPictures/IMG_1770.jpg">
-* **12 board v4.0:** Here is a picture of my final PCB that came in February.   I decided to make my board longer so that it could have an additional micro-controller board, an Arduino nano, to control the motors and lights in my product.  This board does not have any errors because I checked my design many times before ordering it.
+* **13 board v4.0:** Here is a picture of my final PCB that came in February.   I decided to make my board longer so that it could have an additional micro-controller board, an Arduino nano, to control the motors and lights in my product.  This board does not have any errors because I checked my design many times before ordering it.
 <img src="/PechaKucha/GoodPictures/IMG_1775.jpg">
-* **13 board and components:** Assembling my boards wasn't very difficult.  I just had to put the components in the holes in my PCB  and solder them in.  I took this picture of my board and components right before assembling my product.
+* **14 board and components:** Assembling my boards wasn't very difficult.  I just had to put the components in the holes in my PCB  and solder them in.  I took this picture of my board and components right before assembling my product.
 <img src="/PechaKucha/GoodPictures/IMG_1799.jpg">
-* **14:**
-
 * **15:**
 * **16:**
 * **17:**
-* **18 / Evaluation of Project:**
+* **18:**
+* **19 / Evaluation of Project:**
 
 <table border="1" cellpadding="0" cellspacing="0" style="font-size:13.3333px;margin-left:27pt;border-collapse:collapse;border:none" width="545">
 <tbody>
