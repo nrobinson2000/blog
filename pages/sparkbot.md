@@ -7,8 +7,6 @@ permalink: /sparkbot/
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
 ## Introduction
->The goal of my project is to create a modular IoT robotics platform with a customizable 3D printed body, an add on system, and a website for sharing community created code, add on boards and body designs for other users to use and enjoy.
-
 My project will use the [Particle Photon](https://particle.io/), an inexpensive programmable Wi-Fi development board that I am very fond of.  The Photon runs C++ on its micro operating system, and communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
 
 SparkBot is a kit designed for students at any age who are interested in technology or robotics.  Its purpose is to create a robot front end for the Photon that will get people excited to program and create things with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
