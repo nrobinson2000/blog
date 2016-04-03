@@ -1,5 +1,6 @@
 var token = "0101e75a4acb0c906e1d8f4956f9cd032163db43";
-var device = "3f0028000b47343432313031";
+var photon = "3f0028000b47343432313031";
+var electron = "54002e001951343334363036";
 
 var neck = 90;
 var left = 90;
@@ -28,7 +29,7 @@ function httpGet(theUrl)
     return xmlHttp.responseText;
 }
 
-function callFunction(functionName, args)
+function callFunction(device, functionName, args)
 {
 //  var params = '{"arg": "' + args + '","access_token": "' + token +'"}';
   var params = 'arg=' + args;
@@ -59,42 +60,42 @@ function makeProper(value)
 function setNeck(data)
 {
   neck = data;
-  callFunction("moveServos", makeProper(neck) + " 200 200");
+  callFunction(photon, "moveServos", makeProper(neck) + " 200 200");
 }
 
 function setLeft(data)
 {
   left = data;
-  callFunction("moveServos", "200 " + makeProper(left) + " 200");
+  callFunction(photon, "moveServos", "200 " + makeProper(left) + " 200");
 }
 
 function setRight(data)
 {
   right = data;
-  callFunction("moveServos", "200 200 " + makeProper(right));
+  callFunction(photon, "moveServos", "200 200 " + makeProper(right));
 }
 
 function setRed(data)
 {
   red = data;
-  callFunction("moodlights", makeProper(red) + " 300 300");
+  callFunction(photon, "moodlights", makeProper(red) + " 300 300");
 }
 
 function setGreen(data)
 {
   green = data;
-  callFunction("moodlights", "300 " + makeProper(green) +" 300");
+  callFunction(photon, "moodlights", "300 " + makeProper(green) +" 300");
 }
 
 function setBlue(data)
 {
   blue = data;
-  callFunction("moodlights", "300 300 " + makeProper(blue));
+  callFunction(photon, "moodlights", "300 300 " + makeProper(blue));
 }
 
 function getNoise()
 {
-var response = httpGet("https://api.particle.io/v1/devices/" + device + "/noise?access_token=" + token);
+var response = httpGet("https://api.particle.io/v1/devices/" + photon + "/noise?access_token=" + token);
 var obj = JSON.parse(response);
 document.getElementById("noiselevel").innerHTML = "noise = " + obj.result;
 
@@ -102,7 +103,13 @@ document.getElementById("noiselevel").innerHTML = "noise = " + obj.result;
 
 function getBrightness()
 {
-  var response = httpGet("https://api.particle.io/v1/devices/" + device + "/brightness?access_token=" + token);
+  var response = httpGet("https://api.particle.io/v1/devices/" + photon + "/brightness?access_token=" + token);
   var obj = JSON.parse(response);
   document.getElementById("brightnesslevel").innerHTML = "brightness = " + obj.result;
+}
+
+function lcdPrint(text)
+{
+  callFunction(electron, "print", text);
+  console.log("Sent " + text)
 }
