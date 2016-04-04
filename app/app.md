@@ -18,7 +18,7 @@ permalink: /app/
 <input type="range" id="blue" min="0" max="255" value="0" step="5" onchange="setBlue(this.value)" /> Blue<br>
 
 # playSound
-<input type="range" id="sound" min="0" max="255" value="0" step="5" onchange="callFunction('playSound', this.value)"/> Volume<br>
+<input type="range" id="sound" min="0" max="255" value="0" step="5" onchange="callFunction(photon, 'playSound', this.value)"/> Volume<br>
 
 <div onclick="setInterval(getNoise, 2500);
 setInterval(getBrightness, 2500);">
