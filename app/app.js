@@ -111,5 +111,4 @@ function getBrightness()
 function lcdPrint(text)
 {
   callFunction(electron, "print", text);
-  console.log("Sent " + text)
 }
