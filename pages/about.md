@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 # *Maker, Hacker, Student*:
-I am 15 years old and I live in London, UK.  I love designing websites and programming.  I program C++ on my Arduinos and my Photons.  I write scripts in Bash, Phython and Expect.  I build websites in Node and made this Blog using Jekyll.  I love GitHub and Particle and use their tools everyday.  On my Linux Mint workstation I use Atom for all of my programming and plain-text editing.
+I am 16 years old and I live in London, UK.  I love designing websites and programming.  I program C++ on my Arduinos and my Photons.  I write scripts in Bash, Phython and Expect.  I build websites in Node and made this Blog using Jekyll.  I love GitHub and Particle and use their tools everyday.  On my Linux Mint workstation I use Atom for all of my programming and plain-text editing.
 
 # Interests:
 * **Making things**: I am always involved in a project.  Right now I am in the middle of my grade 10 personal project.
