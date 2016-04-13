@@ -136,7 +136,7 @@ $ particle webhook create wemo.json
 * Step 5: Toggle the Wemo switch from your code!
 
 ```cpp
-particle.publish("toggleWemo");
+Particle.publish("toggleWemo");
 ```
 
 

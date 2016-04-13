@@ -33,7 +33,7 @@ permalink: /planning/
 <img src="/PechaKucha/GoodPictures/IMG_1799.jpg">
 
 
-# Put stuff
+# Rubric
 
 <div><br>
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
