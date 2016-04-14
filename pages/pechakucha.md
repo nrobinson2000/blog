@@ -15,8 +15,9 @@ I want to make my PechaKucha into a video and embed it on this page.
 
 ## Slide Planning
 * **Title Slide: (text)**  Hi.  I'm Nathan Robinson.  My project is demonstration of the practical uses of the Internet of Things and how it can be used effectively.
-* **Rationale For Project:** I decided to make an Internet of Things device because I am very interested in technology and how it can be used in everyday life.  I also love to make electronic projects and program all kinds of devices, and would like to study computer science at university and get a job as a developer.
-* **1 IoT Diagram:** "What is the Internet of Things?" you may ask.  The Internet of Things, commonly referred to IoT, is the concept that the numerous internet connected devices in the world can co-operate together autonomously to improve our lives as a whole.
+* **Rationale For Project:** I decided to make an Internet of Things device to investigate the process of creating and programming an internet enable product.  I am very interested in technology and I love creating devices, so I decided to research how a cloud connected product could be created and if it could be a useful product.
+<img src="/PechaKucha/GoodPictures/IMG_0003.jpg">
+* **1 IoT drawing.  COMPONENTS + PHOTON = CLOUD CONNECTED PRODUCT:** The Internet of Things is the network of physical objects embedded with electronics, software, sensors, and network connectivity that enables them objects to collect and exchange data.  Put simply, connecting sensors and other components to an internet enabled microcontroller board opens up an entire new use for those components, as they can then be interfaced with from anywhere in the world.
 <img src="/PechaKucha/GoodPictures/IMG_0004.jpg">
 * **2 Picture of Core:** This is the Core.  A wifi-enabled micro-controller board the size of a postage stamp.  Particle, the producer of the board is an awesome company that I have been a fan of since I backed them on Kickstarter.  I received the my core in 2013 but didn't actually begin to use it until early 2014.
 <img src="/PechaKucha/GoodPictures/IMG_0055.jpg">
@@ -36,19 +37,24 @@ I want to make my PechaKucha into a video and embed it on this page.
 <img src="/PechaKucha/GoodPictures/IMG_1667.jpg">
 * **10 underside of board:** There was in fact a mistake in this board.  On the bottom there was an overlapping wire that I had to cut at two points and solder some scrap wire across the board to replace that wire.  This wire covered up the RGB port on the PCB.  Additionally, the microphone port on the board was wired backwards because the part in Fritzing was incorrect.
 <img src="/PechaKucha/GoodPictures/IMG_1671.jpg">
-* **11 board plugged into motors:** Here is a picture of my project with the 3.0 board.  I had to use a bread board because the microphone was backwards and because I didn't want to have to solder any additional parts to this board because I knew I needed to order a replacement.
+* **11 board plugged into motors:** Here is a picture of my project with the third revision of my board.  I used a breadboard when testing at this stage because the microphone was backwards.  I didn't solder any additional parts to this board because I knew I needed to order a replacement because the servos were still acting strange.  I also did some GPIO pin testing in this stage, as I had connected a yellow button that would make my Photon tweet when pressed.
 <img src="/PechaKucha/GoodPictures/IMG_1767.jpg">
-* **12 breadboarding:** Here is the breadboard prototype of my board.
+* **12 breadboarding:** I soon had the idea to incorporate another microcontroller board into my project.  I needed another board to control the servos and RGB lights on my product, as the Photon struggled to do it on its own.  I chose the Arduino Nano, an inexpensive board with many more pins.  In this picture I am working on getting serial communication set up so that my Photon would be able give commands to the Nano over a wire.
 <img src="/PechaKucha/GoodPictures/IMG_1770.jpg">
 * **13 board v4.0:** Here is a picture of my final PCB that came in February.   I decided to make my board longer so that it could have an additional micro-controller board, an Arduino nano, to control the motors and lights in my product.  This board does not have any errors because I checked my design many times before ordering it.
 <img src="/PechaKucha/GoodPictures/IMG_1775.jpg">
 * **14 board and components:** Assembling my boards wasn't very difficult.  I just had to put the components in the holes in my PCB  and solder them in.  I took this picture of my board and components right before assembling my product.
-<img src="/PechaKucha/GoodPictures/IMG_1799.jpg">
-* **15:**
-* **16:**
-* **17:**
+<img src="/PechaKucha/GoodPictures/IMG_1800.jpg">
+* **15 assembled board:** Here is a close up of my assembled product.  All of the basic components in the previous image have been soldered onto the board.  I have soldered on the microphone, buzzer, photoresistor, LED, and RGB button board.  I have also plugged in the servos and inserted my Photon and Arduino Nano.  That nasty hot glue mess you see is my attempt at creating a power connector for my product.
+<img src="/PechaKucha/GoodPictures/IMG_1813.jpg">
+* **16 top view of board:** I was intending for my product to be powered by a single USB port, so it could be powered by any computer or portable USB charger.  However the amount of power required for my product to function exceeds five volts, the output of normal usb ports.  Because of this, my DIY hot glued USB port was for nothing, as I have to use two USB ports to provide enough power for my project to run.
+<img src="/PechaKucha/GoodPictures/IMG_1814.png">
+* **17 App:** On my website I created a simple app for controlling my product.  The app uses Javascript to access the Particle API to call cloud functions registered on my product and monitor cloud variables like how bright or much noise is being detected.  The sliders change the positions of the servos, change the colour of the RGB, and can adjust the frequency being played on the buzzer.
 * **18:**
 * **19 / Evaluation of Project:**
+
+
+# Rubric
 
 <table border="1" cellpadding="0" cellspacing="0" style="font-size:13.3333px;margin-left:27pt;border-collapse:collapse;border:none" width="545">
 <tbody>

@@ -27,8 +27,8 @@ setInterval(getBrightness, 2500);">
 </div>
 
 # LCD
-<input type="text" name="lcdtext" id="lcdtextbox">
-<input type="button" value="Submit" onclick='lcdPrint(document.getElementById("lcdtextbox").value)'>
+<!-- <input type="text" name="lcdtext" id="lcdtextbox">
+<input type="button" value="Submit" onclick='lcdPrint(document.getElementById("lcdtextbox").value)'> -->
 
 
 </div>
