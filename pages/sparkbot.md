@@ -25,7 +25,7 @@ Getting a perfect pinout was difficult because of the limited number of PWM pins
 
 Below is a picture of one of my Photons connected to the PCB I have developed.  It is connected to three servos, a microphone, a button, and an LED.
 
-<center>![Top-View](/images/top-view.jpg)</center>
+![Top-View](/images/top-view.jpg)
 
 
 ## Code
