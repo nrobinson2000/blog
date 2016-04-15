@@ -33,7 +33,8 @@ I have developed a [C++ library][10] that makes using and programming SparkBot s
 
 Below is the barebones code to use my library.
 
-```cpp
+{% highlight cpp %}
+
 #include "application.h"
 #include "sparkbot-default.h" // Import the sparkbot-default library.
 SYSTEM_THREAD(ENABLED);
@@ -62,7 +63,8 @@ void loop()
 {
   sb.refresh();
 }
-```
+
+{% endhighlight %}
 
 
 
@@ -77,11 +79,11 @@ To help with the development of SparkBot you can either donate bitcoin or contri
 
 If you want to contribute to my source code you can fork my repositories.
 
-```bash
+{% highlight bash %}
 $ git clone https://github.com/nrobinson2000/sparkbot-default.git
 
 $ git clone https://github.com/nrobinson2000/sparkbot.git
-```
+{% endhighlight %}
 
 ## Repositories
 SparkBot is organized into three repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
@@ -129,15 +131,15 @@ IFTTT, (if this then that) is a website that allows web services to send data be
 
 * Step 4: Upload the webhook to the Particle cloud
 
-```bash
+{% highlight bash %}
 $ particle webhook create wemo.json
-```
+{% endhighlight %}
 
 * Step 5: Toggle the Wemo switch from your code!
 
-```cpp
+{% highlight cpp %}
 Particle.publish("toggleWemo");
-```
+{% endhighlight %}
 
 
 [0]: https://github.com/nrobinson2000/sparkbot/zipball/master

@@ -31,4 +31,4 @@ nav_message: >
 
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown

@@ -50,8 +50,8 @@ I want to make my PechaKucha into a video and embed it on this page.
 * **16 top view of board:** I was intending for my product to be powered by a single USB port, so it could be powered by any computer or portable USB charger.  However the amount of power required for my product to function exceeds five volts, the output of normal usb ports.  Because of this, my DIY hot glued USB port was for nothing, as I have to use two USB ports to provide enough power for my project to run.
 <img src="/PechaKucha/GoodPictures/IMG_1814.png">
 * **17 App:** On my website I created a simple app for controlling my product.  The app uses Javascript to access the Particle API to call cloud functions registered on my product and monitor cloud variables like how bright or much noise is being detected.  The sliders change the positions of the servos, change the colour of the RGB, and can adjust the frequency being played on the buzzer.
-* **18:**
-* **19 / Evaluation of Project:**
+<img src="/PechaKucha/GoodPictures/IMG_1815.jpg">
+* **18 / Evaluation of Project:**
 
 
 # Rubric
