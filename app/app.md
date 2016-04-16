@@ -14,9 +14,9 @@ permalink: /app/
 
 <br>
 <h2>moodlights</h2>
-<input type="range" id="red" min="0" max="255" value="0" step="5" onchange="setRed(this.value)"/> Red<br>
-<input type="range" id="green"  min="0" max="255" value="0" step="5" onchange="setGreen(this.value)"/> Green<br>
-<input type="range" id="blue" min="0" max="255" value="0" step="5" onchange="setBlue(this.value)" /> Blue<br>
+<input type="range" id="red" min="0" max="255" value="0" step="5" onchange="setRed(this.value)"/> R<br>
+<input type="range" id="green"  min="0" max="255" value="0" step="5" onchange="setGreen(this.value)"/> G<br>
+<input type="range" id="blue" min="0" max="255" value="0" step="5" onchange="setBlue(this.value)" /> B<br>
 
 <br>
 <h2>playSound</h2>
