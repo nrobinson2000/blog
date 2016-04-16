@@ -8,9 +8,9 @@ permalink: /app/
 <div>
 
 <h2>moveServos</h2>
-<input type="range" id="neck" min="0" max="180" value="90" step="5" onchange="setNeck(this.value)"/> Neck<br>
-<input type="range" id="left"  min="0" max="180" value="90" step="5" onchange="setLeft(this.value)"/> Left<br>
-<input type="range" id="right" min="0" max="180" value="90" step="5" onchange="setRight(this.value)" /> Right<br>
+<input type="range" id="neck" min="0" max="180" value="90" step="5" onchange="setNeck(this.value)"/> 1<br>
+<input type="range" id="left"  min="0" max="180" value="90" step="5" onchange="setLeft(this.value)"/> 2<br>
+<input type="range" id="right" min="0" max="180" value="90" step="5" onchange="setRight(this.value)" /> 3<br>
 
 <br>
 <h2>moodlights</h2>
