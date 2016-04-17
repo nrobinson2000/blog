@@ -31,10 +31,13 @@ function httpGet(theUrl)
 
 function callFunction(device, functionName, args)
 {
-//  var params = '{"arg": "' + args + '","access_token": "' + token +'"}';
+
   var params = 'arg=' + args;
-  console.log(params);
+  console.clear()
   httpPost("https://api.particle.io/v1/devices/" + device + "/" + functionName, params);
+  console.log("Called function: "+ functionName);
+  console.log("On device: " + device);
+  console.log("With arguments: " + args);
 }
 
 function makeProper(value)
@@ -112,3 +115,6 @@ function lcdPrint(text)
 {
   callFunction(electron, "print", text);
 }
+
+console.log("To call any function use:");
+console.log("callFunction(device, functionName, args)");
