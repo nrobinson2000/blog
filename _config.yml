@@ -18,12 +18,11 @@ nav_message: >
 
   <h3>About my Project:</h3>
   <ul>
-  <li>My project is a practical demonstration of the Internet of Things that utilizes arduino-like boards to create a wifi-connected device.</li>
+  <li>My project is a practical demonstration of the Internet of Things that utilizes arduino-like boards to create a wifi-connected device. <strong> Read the links above to learn about my project.</strong></li>
   <br>
   <li>This website is hosted on GitHub pages on my GitHub account.  You can see the <a href="https://github.com/nrobinson2000/nrobinson2000.github.io">source code here.</a></li>
   <br>
-  <li>This blog is powered by <a href="https://jekyllrb.com">Jekyll</a>.  Jekyll is an automatic blog / website generator that compiles GitHub flavored markdown into HTML
-  files.</li>
+  <img src="/images/PCB.png">
   </ul>
 
 

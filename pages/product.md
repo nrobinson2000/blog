@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: page
 title: Product
-permalink: /sparkbot/
+permalink: /product/
 ---
 
 [![Build Status](https://travis-ci.org/nrobinson2000/sparkbot-default.svg?branch=master)](https://travis-ci.org/nrobinson2000/sparkbot-default)
 
 ## Introduction
-My project will use the [Particle Photon](https://particle.io/), an inexpensive programmable Wi-Fi development board that I am very fond of.  The Photon runs C++ on its micro operating system, and communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
+My project uses the [Particle Photon](https://particle.io/), an inexpensive programmable Wi-Fi development board that I am very fond of.  The Photon runs C++ on its micro operating system, and communicates with Particle's servers to create a low cost, high power device. Code can be uploaded to the Photon in several ways. Flashed from the [Particle.io web IDE][7], uploaded from either the Particle DEV IDE or the Particle CLI tool, or compiled locally and flashed over USB with DFU-util.
 
-SparkBot is a kit designed for students at any age who are interested in technology or robotics.  Its purpose is to create a robot front end for the Photon that will get people excited to program and create things with. It will give a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
+My product was originally designed to be a kit for students at any age who are interested in technology or robotics.  Its purpose was to create a robot front end for the Photon that will get people excited to program and create things with. It gives a reason for people to become interested in the Internet of Things by creating an exciting interactive experience.
 
 ## Planning
 My [finished timeline](https://docs.google.com/document/d/1ECvW88TkWGvGFmdw64F-xl0qW6fytZt4299X66oWscc/edit) can be found on Google Drive.
@@ -19,17 +19,15 @@ My project uses many components and several custom designed PCBs.  I have made s
 
 <center><img src="/images/PCB.png" width="351.5px"><img src="/images/Pinout.png" width="370.31px" height="470.573px"></center><br>
 
-The SparkBot shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a SparkBot.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured here is version 3.0 of the PCB, and I am expecting it to arrive soon. There are several free pins that can be programmed freely to work with other components so a SparkBot can use parts on a breadboard without the Photon needing to be taken out its socket.
+The shield PCB makes use of most of pins of the Photon, allowing it to work with the sensors, servos, buttons and lights on a my product.  This PCB was developed using [Fritzing](http://fritzing.org).  Pictured above is the final version of the PCB. There are several free pins that can be programmed freely to work with other components so my product can use parts on a breadboard without the Photon needing to be taken out its socket.
 
 Getting a perfect pinout was difficult because of the limited number of PWM pins and analog pins.  The pins are all over the place, but are organized in my library with constants for the pins.
-
-Below is a picture of one of my Photons connected to the PCB I have developed.  It is connected to three servos, a microphone, a button, and an LED.
 
 ![Top-View](/images/top-view.jpg)
 
 
 ## Code
-I have developed a [C++ library][10] that makes using and programming SparkBot simpler and more convenient.
+I have developed a [C++ library][10] that makes using and programming my product simpler and more convenient.
 
 Below is the barebones code to use my library.
 
@@ -69,13 +67,13 @@ void loop()
 
 
 ## Open Source
-SparkBot respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
+My product respects and uses many open source technologies and services. All of the software sources and hardware files can be found freely on GitHub.
 
 [![Creative Commons License](/images/cc.png)][8]  
 SparkBot by [Nathan Robinson][9] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][8].  
 Based on a work at [https://github.com/nrobinson2000/sparkbot][2].
 
-To help with the development of SparkBot you can either donate bitcoin or contribute to my GitHub repositories.  If you wish to suggest something for this page or correct anything you can **[edit this page on GitHub](https://github.com/nrobinson2000/nrobinson2000.github.io/blob/master/sparkbot.md)**.
+To help with the development of my product you can either donate bitcoin or contribute to my GitHub repositories.  If you wish to suggest something for this page or correct anything you can **[edit this page on GitHub](https://github.com/nrobinson2000/nrobinson2000.github.io/blob/master/sparkbot.md)**.
 
 If you want to contribute to my source code you can fork my repositories.
 
@@ -86,7 +84,7 @@ $ git clone https://github.com/nrobinson2000/sparkbot.git
 {% endhighlight %}
 
 ## Repositories
-SparkBot is organized into three repositories. One for the C++ library, and the other for everything else, including the hardware files, plans and images.
+My project is organized into three repositories. One for the C++ library and Photon code, one for the designs and Arduino Nano code, and another for this website.
 
 #### [C++ Library and Photon Code][10]
 
@@ -109,10 +107,11 @@ SparkBot is organized into three repositories. One for the C++ library, and the 
 * 1x 9 Pin Header
 
 
-## Using IFTTT with SparkBot
-IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT with SparkBot.
-#### **How to use webhooks with a SparkBot to communicate with IFTTT and control anything.**
-*Note: You must have a Photon / SparkBot already set up and be logged into [Particle CLI](https://github.com/spark/particle-cli) on your machine.*
+## Using IFTTT with my product
+IFTTT, (if this then that) is a website that allows web services to send data between each other in a user-friendly way.  Below is a tutorial on how to setup IFTTT on a Photon.
+
+#### **How to use webhooks with a  to communicate with IFTTT and control anything:**
+*Note: You must have a Photon already set up and be logged into [Particle CLI](https://github.com/spark/particle-cli) on your machine.*
 
 * Step 1: Create an [IFTTT account](https://iftt.com)
 * Step 2: Create a recipe that uses the [Maker channel trigger](https://ifttt.com/channels/maker/triggers/1636368624-receive-a-web-request) or use the recipe below to control a Wemo switch.  *Name the event* ***wemo.***
