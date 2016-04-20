@@ -141,6 +141,42 @@ Particle.publish("toggleWemo");
 {% endhighlight %}
 
 
+## Criteria:
+
+Criterion 1:
+My product must be an interactive IoT demonstration with its own custom designed PCB.
+
+Criterion 2:
+My product must educate people on the Internet of things.
+
+Criterion 3:
+The product must connect to wi-fi and have a functioning web app.
+
+Criterion 4:
+My product must run C++ on the Photon and Arduino Nano.
+
+Criterion 5:
+My product must be easy and entertaining to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [0]: https://github.com/nrobinson2000/sparkbot/zipball/master
 [1]: https://github.com/nrobinson2000/sparkbot/tarball/master
 [2]: https://github.com/nrobinson2000/sparkbot
