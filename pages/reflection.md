@@ -4,6 +4,38 @@ title: Reflection
 permalink: /reflection/
 ---
 
+Abstract:
+
+The Internet of Things is a relatively new concept 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Script:
 -----
 Hi.  I'm Nathan Robinson.  My project is a demonstration of the practical uses of the Internet of Things and how it can be used effectively.
