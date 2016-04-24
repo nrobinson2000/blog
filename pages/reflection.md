@@ -6,11 +6,16 @@ permalink: /reflection/
 
 Abstract:
 ---
-The Internet of Things is a new concept that is taking the world by force.  There will soon be more internet connected devices than there are people on this planet.  The Internet of Things, commonly referred to as IoT, is the name of the network of these internet connected devices.  The purpose of these devices is to use electronics, sensors, software and internet connectivity to collect, exchange, and act on data.  IoT devices fit into many fields and industries, as almost any electronic device can benefit from being internet-enabled.  Creating and using IoT devices have become more accessible thanks to today's technology.
+The Internet of Things is a new concept that is taking the world by force.  There will soon be more internet connected devices than there are people on this planet.  The Internet of Things, commonly referred to as IoT, is the name of the network of these internet connected devices.  The purpose of these devices is to use electronics, sensors, software and internet connectivity to collect, exchange, and act on data.  IoT devices fit into many fields and industries, as almost any electronic device can benefit from being internet-enabled.  Creating and using IoT devices has become more accessible, due to the lower prices and smaller sizes of electronic components 
 
-The most critical part of any electronic product is a micro-controller.  Micro-controllers are relatively inexpensive electronic components that can be programmed to interact with circuits and obtain data from sensors, and are key for creating any find of electronic device.  In order for the product to be considered and IoT device, the micro-controller must be connected to the internet via a type of antenna.  This antenna can either be Bluetooth, Wi-Fi, or Cellular, as long as it can perform its function of connecting the device.
+The most critical part of any electronic product is a micro-controller.  Micro-controllers are relatively inexpensive electronic components that can be programmed to interact with circuits and obtain data from sensors, and are key for creating any kind of electronic device.  In order for the product to be considered an IoT device, the micro-controller must be connected to the internet via a type of antenna.  This antenna can either be Bluetooth, Wi-Fi or Cellular, as long as it can perform its function of connecting the device.
 
-For my Personal Project I created a IoT product using two micro-controllers, a Particle Photon and an Arduino Nano.  The Photon has Wi-Fi, and can be interacted and monitored with the app I created.  The Nano is controlled by the Photon over Serial, and can be given commands to control the servo motors and RGB LED connected to my custom printed circuit board.  Both the Photon and Nano run C++, and the app is written Javascript.
+For my Personal Project I created an IoT product using two micro-controller boards, a Particle Photon and an Arduino Nano.  The Photon has Wi-Fi, and can be interacted with and monitored with the Web Application I created.  The Nano is controlled by the Photon over Serial, and can be given commands to control the servo motors and RGB LED connected to my custom printed circuit board.  Both the Photon and Nano run C++, and the app is written in Javascript.
+
+
+
+
+
 
 Reflection:
 ---
