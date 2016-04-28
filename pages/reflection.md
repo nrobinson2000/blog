@@ -35,6 +35,8 @@ My first board had a misplaced trace that made an unwanted connection between 3 
 
 In conclusion, I am satisfied with the outcome of my project.  I created an IoT device that works well.  It can be controlled using the app that I created to control motors, lights and a buzzer.  My app can also get data from the Photon, allowing it to monitor the amount of light being detected by the photoresistor or how much sound is being read from the microphone.  I improved my programming abilities during my project, as creating my app allowed me to improve my Javascript skills, and programming my Photon and Nano helped me teach myself C++.
 
+During the Personal Project presentation night I received positive feedback from parents and teachers.  I was told my presentation board was well made and that my product and app were impressive.  I was congratulated for not giving up during my project, especially when I had many mistakes with PCBs, and continued to develop my product despite the problems I was having with my design and code.  I realized the importance of learning from my mistakes that night, as I was respected persevering throughout my project.  Many parents were intrigued by my project and I think several of them learned something new about the Internet of Things and product design after I'd told them about my project.
+
 # Talk about time management
 I also learned time management, as the scope of my project changed over the months.
 
