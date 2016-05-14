@@ -28,3 +28,5 @@
 >* Why I made my own website over the standard template.
 
 >* Challenges.  PWMS, PCB, 3D Models
+
+<center>[![](https://projecthandup.org/wp-content/uploads/2013/01/RibbonDonateBitcoin.png)](https://nrobinson2000.github.io/donate-bitcoin/)</center>
